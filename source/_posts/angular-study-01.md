@@ -1,4 +1,9 @@
 ﻿title: AngularJS 学习之路 01
+date: 2016-4-12
+tages:
+- angular
+- 简介
+- introduction
 -----
 
 ## AngularJS 简介

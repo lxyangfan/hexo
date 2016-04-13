@@ -1,6 +1,10 @@
 ---
 title: Angular 学习计划
+date: 2016-4-13
 tags:
+- 前端
+- angularjs
+- 计划
 ---
 
 # 目标
