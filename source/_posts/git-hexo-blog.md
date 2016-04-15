@@ -1,5 +1,6 @@
 
 title: 工欲善其事，必先利其器—— Git + Hexo 搭建个人博客
+date: 2016-4-12
 tags:
 - git
 - hexo
