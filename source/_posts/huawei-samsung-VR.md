@@ -1,44 +1,55 @@
-# 三星、华为入局VR：What / Why
+title: 三星、华为入局VR：What / Why
+date: 2016-4-18
+tags:
+- VR
+- AR
+- 科技
+- Tech
+- Info
+- Huawei
+- Samsung
+-------
 
-华为4月15号在上海发布P9手机，顺带推出了其首款VR眼镜。华为也来凑热闹了……  
+
+华为4月15号在上海发布P9手机，顺带推出了其首款VR眼镜。华为也来凑热闹了……
 差不多一年前，微软发布了 [Hololens][1], 算是推开了AR 黑科技的大门。往前再推，Google发布的 Google Glass，虽然 市场反应和评论家都宣告了Glass的失败，但是 VR/AR 技术在各大科技公司的推波助澜下，慢慢兴起……
 
 ## AR/VR是什么鬼？
 
 VR 是 *Virtual Reality* 即**虚拟现实**的缩写，虚拟现实又是啥？不多说，直接上图，如下：
 
-![古老的VR设备](http://7xsyqy.com2.z0.glb.clouddn.com/1-vr-1.jpeg)  
+![古老的VR设备](http://7xsyqy.com2.z0.glb.clouddn.com/1-vr-1.jpeg)
 图1. 古老的VR设备
 
-> 虚拟现实VR 是利用电脑模拟产生一个**三度空间的虚拟世界**，提供用户关于**视觉、听觉、触觉等感官的模拟**，让用户如同身历其境一般，可以及时、没有限制地观察三度空间内的事物。  
+> 虚拟现实VR 是利用电脑模拟产生一个**三度空间的虚拟世界**，提供用户关于**视觉、听觉、触觉等感官的模拟**，让用户如同身历其境一般，可以及时、没有限制地观察三度空间内的事物。
 > 用户进行位置移动时，电脑可以立即进行复杂的运算，将精确的三维世界视频传回产生**临场感**。
 
 VR 才不是什么新出的黑科技，美帝国 和其他西方发达国家早就开发了 早期的技术，用于 军事训练等等方面。
 
-![跳伞训练](http://7xsyqy.com2.z0.glb.clouddn.com/1-240px-VR-Helm.jpg)  
+![跳伞训练](http://7xsyqy.com2.z0.glb.clouddn.com/1-240px-VR-Helm.jpg)
 图2. VR 军事应用之一**跳伞训练**
 
 （P.S. 插一句题外话，许多 我们现在民用的**黑科技**，其实都是<font color="red">军方玩剩下的东西</font>，还比如  **快速内存数据库**，听我们公司领导说，就是 美军Apache阿帕奇武装直升机 雷达存储使用的技术，再比如 **IOT/物联网/传感网**，都是 美国国防部提出的smart dust项目...不胜枚举...）
 
-![](http://7xsyqy.com2.z0.glb.clouddn.com/1-240px-VR-Helm-2.jpg)  
+![](http://7xsyqy.com2.z0.glb.clouddn.com/1-240px-VR-Helm-2.jpg)
 图3. Oculus Rift  爽的勒
 
-![](http://7xsyqy.com2.z0.glb.clouddn.com/1-VR-4.jpg)   
+![](http://7xsyqy.com2.z0.glb.clouddn.com/1-VR-4.jpg)
 图4. Oculus Rift 打CS 爽歪歪
 
-![](http://7xsyqy.com2.z0.glb.clouddn.com/1-VR-5images.jpg)  
+![](http://7xsyqy.com2.z0.glb.clouddn.com/1-VR-5images.jpg)
 图5. Oculus Rift  套装
 
 
-----  
+----
 
 
 AR 是 *Augmented Reality* 增强现实的缩写，具体是啥？简单粗暴，来上图：
 
-![](http://7xsyqy.com2.z0.glb.clouddn.com/1-AR1.jpg)  
+![](http://7xsyqy.com2.z0.glb.clouddn.com/1-AR1.jpg)
 图3. AR 玩游戏
 
-![](http://7xsyqy.com2.z0.glb.clouddn.com/1-AR-2.jpg)  
+![](http://7xsyqy.com2.z0.glb.clouddn.com/1-AR-2.jpg)
 图4. AR 交流
 
 
@@ -49,7 +60,7 @@ AR 是一种实时地计算摄影机影像的位置及角度并加上相应图�
 
 ## AR\VR 对比
 
-可以看出，AR\VR还是有很大的区别和联系滴：  
+可以看出，AR\VR还是有很大的区别和联系滴：
 >* 本质上来看，VR 是完全虚拟化，外界环境都是计算机模拟；而 AR 则是 虚拟+现实，增强版的现实！
 >* 从应用部署来看，VR 目前绝大多数只适用于 室内等需要固定部署的地点，而AR 则是增强版现实，不限制于 室内室外，同时无须复杂的部署；
 >* 从功能上来看，VR 因为是完全虚拟，所以自由度更高，可玩性更高；而 AR 和现实世界结合，所以会受到现实条件制约，但这正是魅力之处，同时与VR的重要区别；

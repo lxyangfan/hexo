@@ -12,6 +12,7 @@ tags:
 
 ![directory](http://7xsyqy.com2.z0.glb.clouddn.com/image/jpg/160414-01.PNG)
 
+
 代码主体包括 `controller.js`和`app.js`，其中`app.js`是程序入口文件。他们都加载到`index.html`中。
 
 ```html
